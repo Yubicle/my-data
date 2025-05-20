@@ -1,0 +1,185 @@
+[
+  {
+    "brands": [
+      {
+        "BrandId": 1,
+        "BrandName": "Myrrh Boot Co."
+      },
+      {
+        "BrandId": 2,
+        "BrandName": "Rippling Coats"
+      },
+      {
+        "BrandId": 3,
+        "BrandName": "Figman & Sons Tailoring"
+      }
+    ],
+    "products": [
+      {
+        "ProductId": "1",
+        "BrandId": 1,
+        "ProductName": "Chelsea Boots",
+        "GraphicName": "CHB",
+        "CostPrice": 119.99,
+        "MSRP": 124.99,
+        "QtyHand": 8,
+        "QtyOnBack": 40,
+        "Description": "Suede Chelsea boots in several colourways."
+      },
+      {
+        "ProductId": "2",
+        "BrandId": 1,
+        "ProductName": "Oxford Boots",
+        "GraphicName": "OXB",
+        "CostPrice": 99.99,
+        "MSRP": 124.99,
+        "QtyHand": 5,
+        "QtyOnBack": 12,
+        "Description": "Classic Oxford boots with a goodyear welt."
+      },
+      {
+        "ProductId": "3",
+        "BrandId": 1,
+        "ProductName": "Combat Boots",
+        "GraphicName": "COMB",
+        "CostPrice": 149.99,
+        "MSRP": 179.99,
+        "QtyHand": 32,
+        "QtyOnBack": 60,
+        "Description": "Goodyear-welted combat boots for rough terrain. (Also available in tan leather)"
+      },
+      {
+        "ProductId": "4",
+        "BrandId": 1,
+        "ProductName": "Chukkas",
+        "GraphicName": "CHUK",
+        "CostPrice": 54.99,
+        "MSRP": 59.99,
+        "QtyHand": 20,
+        "QtyOnBack": 34,
+        "Description": "Classic Chukkas for casual wear made with full-grain leathers dyed and processed in Italy."
+      },
+      {
+        "ProductId": "5",
+        "BrandId": 1,
+        "ProductName": "Wingtip Boots",
+        "GraphicName": "WING",
+        "CostPrice": 99.99,
+        "MSRP": 124.99,
+        "QtyHand": 16,
+        "QtyOnBack": 54,
+        "Description": "Wingtip boots with broguing done in London, England for the classic man."
+      },
+      {
+        "ProductId": "6",
+        "BrandId": 2,
+        "ProductName": "Overcoat",
+        "GraphicName": "OVR",
+        "CostPrice": 249.99,
+        "MSRP": 349.99,
+        "QtyHand": 0,
+        "QtyOnBack": 0,
+        "Description": "Merino wool overcoat in grey."
+      },
+      {
+        "ProductId": "7",
+        "BrandId": 2,
+        "ProductName": "Parka",
+        "GraphicName": "PRK",
+        "CostPrice": 129.99,
+        "MSRP": 149.99,
+        "QtyHand": 2,
+        "QtyOnBack": 5,
+        "Description": "Outwear in neon colourways."
+      },
+      {
+        "ProductId": "8",
+        "BrandId": 2,
+        "ProductName": "Denim Jacket",
+        "GraphicName": "DNM",
+        "CostPrice": 109.99,
+        "MSRP": 129.99,
+        "QtyHand": 40,
+        "QtyOnBack": 21,
+        "Description": "Combed and starched cotton denim jacket woven and constructed in Japan."
+      },
+      {
+        "ProductId": "9",
+        "BrandId": 2,
+        "ProductName": "Fleece",
+        "GraphicName": "FLC",
+        "CostPrice": 249.99,
+        "MSRP": 349.99,
+        "QtyHand": 0,
+        "QtyOnBack": 0,
+        "Description": "Sheep wool-lined fleece jacket in various sizes."
+      },
+      {
+        "ProductId": "10",
+        "BrandId": 2,
+        "ProductName": "Bomber Jacket",
+        "GraphicName": "BMBR",
+        "CostPrice": 80.00,
+        "MSRP": 100.00,
+        "QtyHand": 123,
+        "QtyOnBack": 41,
+        "Description": "Classic bomber jacket for the metropolitan fashionista."
+      },
+      {
+        "ProductId": "11",
+        "BrandId": 3,
+        "ProductName": "Oxford Shirt",
+        "GraphicName": "OXS",
+        "CostPrice": 99.99,
+        "MSRP": 124.99,
+        "QtyHand": 1234,
+        "QtyOnBack": 3445,
+        "Description": "The classic button-down oxford shirt for a professional."
+      },
+      {
+        "ProductId": "12",
+        "BrandId": 3,
+        "ProductName": "Tuxedo Shirt",
+        "GraphicName": "TUX",
+        "CostPrice": 44.99,
+        "MSRP": 59.99,
+        "QtyHand": 302,
+        "QtyOnBack": 123,
+        "Description": "For the black-tie event connoisseur."
+      },
+      {
+        "ProductId": "13",
+        "BrandId": 3,
+        "ProductName": "Polo Shirt",
+        "GraphicName": "POLO",
+        "CostPrice": 40.00,
+        "MSRP": 45.00,
+        "QtyHand": 3200,
+        "QtyOnBack": 1230,
+        "Description": "Classic polo shirt for a classic spring."
+      },
+      {
+        "ProductId": "14",
+        "BrandId": 3,
+        "ProductName": "Mandarin Shirt",
+        "GraphicName": "MAND",
+        "CostPrice": 0.99,
+        "MSRP": 149.99,
+        "QtyHand": 2,
+        "QtyOnBack": 5,
+        "Description": "A collarless staple for every man."
+      },
+      {
+        "ProductId": "15",
+        "BrandId": 3,
+        "ProductName": "T-shirt",
+        "GraphicName": "TEE",
+        "CostPrice": 20.00,
+        "MSRP": 20.00,
+        "QtyHand": 1000,
+        "QtyOnBack": 1000,
+        "Description": "If there is a colour you can think of, we sell it."
+      }
+    ]
+  }
+]
